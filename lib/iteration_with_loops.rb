@@ -7,5 +7,14 @@ array_of_arrays = [
   [99,50,3,4],
   [23,41]
   ]
+  
+if array_of_arrays[0][0].even?
+  p array_of_arrays[0][0]
+if array_of_arrays[0][1].even?
+  p
+
+
+
+
 puts find_even_values(array_of_arrays)
 end
