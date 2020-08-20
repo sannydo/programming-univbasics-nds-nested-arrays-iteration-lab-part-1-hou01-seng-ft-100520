@@ -19,7 +19,8 @@ if array_of_arrays[1][1].even?
 if array_of_arrays[1][2].even?
  p array_of_arrays[1][2]
 if array_of_arrays[1][3].even?
- p 
+ p array_of_arrays[1][3]
+if 
 
 puts find_even_values(array_of_arrays)
 end
