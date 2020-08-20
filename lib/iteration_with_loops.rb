@@ -7,5 +7,5 @@ array_of_arrays = [
   [99,50,3,4],
   [23,41]
   ]
-find_even_values(array_of_arrays)
+puts find_even_values(array_of_arrays)
 end
