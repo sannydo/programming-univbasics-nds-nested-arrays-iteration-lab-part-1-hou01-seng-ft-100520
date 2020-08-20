@@ -9,9 +9,9 @@ find_even_values = [
   ]
   
 if find_even_values[0][0].even?
- p [0][0]
+ p find_even_values[0][0]
 end
-if array_of_arrays[0][1].even?
+if [0][1].even?
  p array_of_arrays[0][1]
 end
 if array_of_arrays[1][0].even?
