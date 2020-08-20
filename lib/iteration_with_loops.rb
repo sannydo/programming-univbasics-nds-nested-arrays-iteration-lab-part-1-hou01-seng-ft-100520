@@ -8,8 +8,8 @@ find_even_values = [
   [23,41]
   ]
   
-if [0][0].even?
- p array_of_arrays[0][0]
+if find_even_values[0][0].even?
+ p [0][0]
 end
 if array_of_arrays[0][1].even?
  p array_of_arrays[0][1]
