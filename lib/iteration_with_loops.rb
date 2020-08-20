@@ -11,7 +11,8 @@ array_of_arrays = [
 if array_of_arrays[0][0].even?
   p array_of_arrays[0][0]
 if array_of_arrays[0][1].even?
-  p
+  p array_of_arrays[0][1]
+if 
 
 
 
