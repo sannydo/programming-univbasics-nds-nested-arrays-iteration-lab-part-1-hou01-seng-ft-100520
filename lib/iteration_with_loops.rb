@@ -24,9 +24,9 @@ if find_even_values[1][2].even?
  p find_even_values[1][2]
 end
 if find_even_values[1][3].even?
- p [1][3]
+ p find_even_values[1][3]
 end
-if array_of_arrays[2][0].even?
+if [2][0].even?
  p array_of_arrays[2][0]
 end
 if array_of_arrays[2][1].even?
