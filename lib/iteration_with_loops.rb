@@ -30,6 +30,6 @@ if find_even_values[2][0].even?
  p find_even_values[2][0]
 end
 if find_even_values[2][1].even?
- p [2][1]
+ p find_even_values[2][1]
 end
 end
